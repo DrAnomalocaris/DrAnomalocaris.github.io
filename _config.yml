@@ -25,7 +25,7 @@ description: Welcome to my personal website
 navbar-links:
   About Me: "aboutme"
   Open Learning: "openlearning"
-  Projects: "projects"
+#  Projects: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
