@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Flair of Machine Learning
+title: Dr Albert
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Welcome to my personal website
 
 # --- Navigation bar options --- #
 
@@ -57,13 +57,10 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
-  xing: yourname
-  stackoverflow: yourlink
+  name: Albert Lahat
+  email: "lahat.albert@gmail.com"
+  github: DrAnomalocaris
+  linkedin: dr-albert-lahat-85b30578
 
 
 # Select which links to show in the footer
@@ -87,14 +84,15 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "kratzert.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "DrAnomalocaris.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kratzertblog"
+disqus: "DrAnomalocaris"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-96660715-1"
+google_analytics: "G-GT786LL6D6"
+#"UA-96660715-1"
 
 # Google Tag Manager ID
 #gtm: ""
