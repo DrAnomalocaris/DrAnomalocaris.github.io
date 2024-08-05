@@ -4,5 +4,8 @@ title: About me
 subtitle:
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+Hi there! I'm a passionate bioinformatics researcher with a knack for uncovering the secrets of our genes. My recent postdoctoral journey at [Newcastle University](http://www.retinalstemcellresearch.co.uk/) has been all about exploring how spliceosomic mutations play a role in Retinitis Pigmentosa, using cutting-edge tools like Alphafold. This project has been an exciting opportunity to build a database of pathogenic mutations, helping to flag significant changes in protein structures.
+
+Before diving into this adventure, I spent time as a research fellow at [Durham University](https://www.durham.ac.uk/departments/academic/biosciences/) and the [Newcastle University Centre for Life](https://www.life.org.uk/who-we-are/), delving into the complexities of spliceosome mutations and their effects on retinal diseases. My experience also includes a rewarding stint at the [Institute for Research Biomedicine](https://www.irbbarcelona.org/en) in Barcelona, where I focused on human cancer genomics and developed various software and databases to support large-scale genomic studies.
+
+Beyond the lab, I'm an enthusiastic programmer and a proud parent of two wonderful daughters. I love reading and writing and junmping head first into projects just for fun. 
