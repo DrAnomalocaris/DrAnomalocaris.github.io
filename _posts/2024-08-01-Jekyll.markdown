@@ -1,0 +1,11 @@
+---
+layout: "post"
+title: "Jekyll"
+date: "2024-08-1 13:54"
+excerpt: "Cloning and playing with Jekyll for github pages."
+comments: false
+---
+
+# META IS THE GAME
+
+This project is cloned from [kratzert's project](https://github.com/kratzert/kratzert.github.io). It was fun and simple to implement and I do recommend playing with it. 
