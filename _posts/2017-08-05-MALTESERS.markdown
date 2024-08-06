@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "MALTESE"
-date: "2018-08-05 13:54"
+date: "2017-08-05 13:54"
 excerpt: "A tool to predict the functional changes of splicing events"
 comments: false
 ---
@@ -167,7 +167,7 @@ To test maltesers just run the maltesers_test.sh script.
 bash maltesers_test.sh
 ```
 The test will run maltesers and then compered if the result is correct.
-![MAltESERS result example](/MAltESERS_Results.PNG)
-![MAltESERS protocol](/MAltESERS_Protocol.PNG)
+![MAltESERS result example](https://github.com/DrAnomalocaris/maltese/raw/dexMotif/MAltESERS_Results.PNG)
+![MAltESERS protocol](https://github.com/DrAnomalocaris/maltese/blob/dexMotif/MAltESERS_Protocol.PNG)
 
 
