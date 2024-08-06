@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Hilbert plots"
-date: "2017-08-05 13:54"
+date: "2018-03-15 13:54"
 excerpt: "An experiment to see the use of plotting 1d data as a 2d heatmap using Hilbert fractals"
 comments: false
 ---
