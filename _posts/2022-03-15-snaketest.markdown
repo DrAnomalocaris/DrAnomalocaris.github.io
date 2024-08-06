@@ -35,7 +35,7 @@ output = snaketest(
     csv='results/table_{chromosome}.csv',
 )
 ```
-But if you do you gotta create a wildcard SM which the other SM classes will refer to
+But if you do you got to create a wildcard SM which the other SM classes will refer to
 ```python
 wildcards = snaketest(
   chromosome="chrY"
@@ -47,4 +47,4 @@ import pandas as pd
 df = pd.read_csv(input.table)
 df = df[df['chromosome']==wildcards.chromosome]
 ```
-Because all variables are in the snakemake format, you can just test and copy paste withought needing to manually change anything.
+Because all variables are in the snakemake format, you can just test and copy paste without needing to manually change anything.
