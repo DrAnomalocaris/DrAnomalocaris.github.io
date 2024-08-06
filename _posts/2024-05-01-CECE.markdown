@@ -12,7 +12,8 @@ Well, there is also the fact that this worm has its entire brain emulated in rea
 This is a whole brain upload and simulation. You can see all her neurons as they are being triggered:
 
 
-https://github.com/DrAnomalocaris/Ceceapp/assets/5287805/013d15f0-f291-4e5c-80e2-03c61de4fe27
+
+[![Watch the video](img/vidThumbnail.png)](https://github.com/DrAnomalocaris/Ceceapp/assets/5287805/013d15f0-f291-4e5c-80e2-03c61de4fe27)
 
 You can watch her go, or use her as a nice clock to hang on a wall:
 
