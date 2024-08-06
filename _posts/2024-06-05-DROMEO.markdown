@@ -1,0 +1,22 @@
+---
+layout: "post"
+title: "CECE"
+date: "2024-05-12 13:54"
+excerpt: "Emulating a fly larvae brain and making it into a virtual pet app."
+comments: false
+---
+
+# [Dromeo](https://dranomalocaris.github.io/Dromeo/)
+
+It all started with the [Cece](https://github.com/DrAnomalocaris/Ceceapp/) project. It is an emulation of a nematode brain, which runs as an android up. It is a cute virtual pet with some philosophical ramifications.
+
+After Cece I started to wonder if there are other connectomes published and despite many partial connectomes, I have found one lab that has managed to fully map the [connectome of a *Drosophila melanogaster* larvae](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7614541/#SD6).
+
+So far I am playing with some values, in particular how much input a neuron needs for it to be activated. If that value is too low the brain sort of stops working, however if it is too high, it gets a seizure.
+
+# Future
+
+So far I have only programmed the brain, I have yet to program its environment and its kinematics. Once that is done, I can use Monte Carlo simulations to find the best parameters for neural activation, as I can measure how well a fly larvae eats. If it is brain dead, then there will be no activity, and if the brain has a constant seizure then there will be no proper development. 
+
+
+[https://github.com/DrAnomalocaris/Dromeo](https://github.com/DrAnomalocaris/Dromeo)
