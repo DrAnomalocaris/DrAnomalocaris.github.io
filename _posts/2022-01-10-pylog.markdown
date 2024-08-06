@@ -1,0 +1,22 @@
+---
+layout: "post"
+title: "pylog"
+date: "2022-01-10 13:54"
+excerpt: "A simple tool to monitor various processes, very useful when running snakemakes."
+comments: false
+---
+
+# [pylog](https://github.com/DrAnomalocaris/pylog)
+tool to redirect logs and program outputs and monitor them all
+![image](https://user-images.githubusercontent.com/5287805/153771717-d898b075-ab5c-4bde-99d3-a41a36e59cf1.png)
+
+Extremely easy to use:
+``` echo hello world | pylog testing ```
+and to view the log, jusy run pylog without any arguments.
+![image](https://user-images.githubusercontent.com/5287805/153771797-7bb38293-6f5c-43b0-b27e-a16e3f95e420.png)
+
+
+If run without any arguments `pylog`, then it will just output the logs of all concurrent pylogs being run by the user.
+
+
+In hindsight I have used this tool way too much to not make it into a proper pip package.
